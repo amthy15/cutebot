@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/amthy15/cutebot/issues"
   },
-  "homepage": "https://github.com/amthy15/cutebot#readme"
+  "homepage": "https://github.com/amthy15/cutebot#readme",
+  "dependencies": {
+    "@discordia/action": "^1.0.2-alpha.0",
+    "@discordia/framework": "^1.0.2-alpha.0",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
 }
