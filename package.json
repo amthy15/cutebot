@@ -1,0 +1,19 @@
+{
+  "name": "cutebot",
+  "version": "1.0.0",
+  "description": "discord bot to test a framewor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/amthy15/cutebot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amthy15/cutebot/issues"
+  },
+  "homepage": "https://github.com/amthy15/cutebot#readme"
+}
